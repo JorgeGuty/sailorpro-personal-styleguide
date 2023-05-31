@@ -1,0 +1,22 @@
+/* NOT COMPATIBLE WITH REACT NATIVE */
+/* width */
+::-webkit-scrollbar {
+    width: 4px;
+    height: 10px;
+    cursor: 'pointer';
+  }
+  /* NOT COMPATIBLE WITH REACT NATIVE */
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  /* NOT COMPATIBLE WITH REACT NATIVE */
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #1139bb;
+  }
+  /* NOT COMPATIBLE WITH REACT NATIVE */
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555555;
+  }

@@ -1,0 +1,22 @@
+{
+    "SELECT_DATE": "Select Date",
+    "DELETE": "Delete",
+    "TODAY": "Today",
+    "SELECT_TIME": "Select Time",
+    "APPLY": "Apply",
+    "CANCEL": "Cancel",
+    "SEARCH": "Search",
+    "ENTER_DESCRIPTION": "Enter a description...",
+    "DELETE_MARK": "Delete mark",
+    "CLEAR_SELECTION": "Clear selection",
+    "NOTHING_TO_SHOW": "Nothing to show",
+    "MAX_REACHED": "Maximum options selected reached",
+    "FROM": "from",
+    "TO": "to",
+    "OF": "of",
+    "SHOWING": "Showing",
+    "RECORDS": "records",
+    "PER": "per",
+    "PAGE": "page",
+    "LOADED": "loaded"
+}

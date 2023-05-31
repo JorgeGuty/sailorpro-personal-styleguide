@@ -1,0 +1,22 @@
+{
+    "SELECT_DATE": "Seleccione una Fecha",
+    "DELETE": "Borrar",
+    "TODAY": "Hoy",
+    "SELECT_TIME": "Seleccione una Hora",
+    "APPLY": "Aplicar",
+    "CANCEL": "Cancelar",
+    "SEARCH": "Buscar",
+    "ENTER_DESCRIPTION": "Agregue una descripción...",
+    "DELETE_MARK": "Eliminar marca",
+    "CLEAR_SELECTION": "Limpiar",
+    "NOTHING_TO_SHOW": "Nada que mostrar",
+    "MAX_REACHED": "Cantidad máxima de opciones seleccionadas alcanzada",
+    "FROM": "del",
+    "TO": "al",
+    "OF": "de",
+    "SHOWING": "Mostrando",
+    "RECORDS": "registros",
+    "PER": " por",
+    "PAGE": "página",
+    "LOADED": "cargados"
+}
